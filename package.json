@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -11,5 +12,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "OverI0rd"
+	"author": "Overi0rd",
+	"description": "A project that does something {...}",
+	"keywords": [ "freecodecamp", "backend", "APIs" ],
+	"license": "Some license",
+	"version": "0.0.5"
 }
